@@ -6,10 +6,12 @@
 
 ###
 ## About Me
-📚 currently pursuing my M.Tech at NITK.  
-🔬 doing research on dynamic task offloading in IoT-Fog-Cloud networks (fancy, right?).  
-🚀 experienced in stuff like Node.js, React, Express.js, MongoDB, AWS, and Docker. I focus on blending front and back-end tech, and i love performance optimization & scalable architectures.  
-🎯 always down for building innovative projects that solve real-world problems.
+
+📚 currently pursuing my M.Tech at NITK.<br>
+🔬 doing research on dynamic task offloading in IoT-Fog-Cloud networks (fancy, right?).<br>
+💻 Passionate about software development, cloud services, and DevOps. <br>
+🚀Hands-on experience with trending technologies like Docker, Kubernetes, Node.js, React, Express.js, MongoDB, and AWS. I specialize in blending front and back-end tech while focusing on performance optimization and scalable architectures.<br>
+🎯 Always eager to learn, collaborate on innovative projects, and contribute to research that solves real-world problems.
 
 ## Technical skills
 
